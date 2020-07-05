@@ -1,0 +1,7 @@
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\bin\Debug\Week8-ListPractice.exe.config
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\bin\Debug\Week8-ListPractice.exe
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\bin\Debug\Week8-ListPractice.pdb
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\obj\Debug\Week8-ListPractice.csprojAssemblyReference.cache
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\obj\Debug\Week8-ListPractice.csproj.CoreCompileInputs.cache
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\obj\Debug\Week8-ListPractice.exe
+C:\Users\decke\source\repos\Week8-ListPractice\Week8-ListPractice\obj\Debug\Week8-ListPractice.pdb
